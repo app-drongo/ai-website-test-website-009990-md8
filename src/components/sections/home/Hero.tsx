@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 const DEFAULT_HERO = {
   title: 'Build the Future of Tech',
   description:
-    'A minimal platform for modern web applications. Clean, fast, and developer-focused.',
+    'test platform for modern web applications. Clean, fast, and developer-focused.',
   primaryCTA: 'Get Started',
   secondaryCTA: 'View Docs',
   primaryCTAHref: '/get-started',
